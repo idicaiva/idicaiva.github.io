@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idicaiva.github.io/sitemap_index.idicaiva
